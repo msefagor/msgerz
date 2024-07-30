@@ -4,5 +4,7 @@ Msgerz is a sentiment analysis library that uses BERT, VADER, Afinn, and TextBlo
 
 ## Installation
 
+Install the library using pip:
+
 ```sh
 pip install msgerz
